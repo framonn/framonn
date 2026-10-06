@@ -14,7 +14,7 @@ and exploring modern technology.
 - 🎓 Student of Software Engineering / RPL
 - 💻 Interested in Web Development
 - 🎨 Learning UI/UX Design
-- 🌱 Currently learning PHP, JavaScript, and React
+- 🌱 Currently learning PHP, JavaScript, and Python
 - ⚡ Love creating useful and creative projects
 
 ---
