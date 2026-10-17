@@ -41,7 +41,7 @@ and exploring modern technology.
 | KantO | Digital School Canteen Application |
 | Batik Sweety | Educational Batik Culture App |
 | Laundry Management | Laundry Management System |
-| Kearsipan Digital | Archival applications are created to manage, store and digitize documents efficiently, securely. |
+| Kearsipan Digital | Archival application to manage documents. |
 
 
 
